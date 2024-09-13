@@ -1,3 +1,5 @@
+@import './App.scss';
+
 /*
   Colors
 */
@@ -18,4 +20,17 @@ $media-desktop: 1024 + 'px';
 $media-desktop-large: 1260 + 'px';
 $media-desktop-max: 1500 + 'px';
 
+
+/*
+    fonts:
+*/
+
+//Add fonts here!
+
+/* 
+    Other vars:
+*/
+$speed: .3s;
+$medSpeed: .25s;
+$fastSpeed: .15s;
 
